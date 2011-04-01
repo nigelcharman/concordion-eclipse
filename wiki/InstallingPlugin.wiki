@@ -1,14 +1,11 @@
-#summary Feature overview
+#summary Installing the plugin from the update site
 
-= Features =
+= Installing =
 
-== 0.1.0 ==
+The Concordion Eclipse Plugin can be installed from the update site at [http://concordion-eclipse.googlecode.com/svn/trunk/org.concordion.ide.eclipse.update-site].
 
-  * Code completion for namespace prefix, commands, Fixture methods in expressions
-  * Simple syntax validation for the `set` command
-  * Recognizes Concordion Specs loaded in the HTML editor when the root element contains a declaration of a namespace prefix for the Concordion namespace (`http://www.concordion.org/2007/concordion`)
+This is the official update site and contains released versions only.
 
-= Planned Features =
+= Development Versions =
 
-== 0.2.0 ==
-  # Validations for all expressions
+The site's repo at [https://github.com/matf/org.concordion.ide.eclipse.update-site] contains development versions of the plugin. To use it, download the site as zip on github, unpack the zip and add a new local Eclipse update site pointing to the unpacked site.
