@@ -1,0 +1,18 @@
+#summary Source code repos
+
+= Introduction =
+
+  * Plugin code, feature and update site are developed on Github
+  * Plugin releases are mirrored to the official update site on Google Code. See InstallingPlugin for instructions on how to install the plugin.
+
+= Details =
+
+There are currently three repos on Github:
+https://github.com/matf/org.concordion.ide.eclipse
+The plugin code
+
+https://github.com/matf/org.concordion.ide.eclipse.feature
+The plugin feature containing the plugin
+
+https://github.com/matf/org.concordion.ide.eclipse.update-site
+The update site containing the built plugin and feature
