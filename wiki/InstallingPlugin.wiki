@@ -8,4 +8,4 @@ This is the official update site and contains released versions only. Releases a
 
 = Development Versions =
 
-The site's repo at [https://github.com/matf/org.concordion.ide.eclipse.update-site-helios] contains development versions of the plugin. To use it, download the site as zip on github, unpack the zip and add a new local Eclipse update site pointing to the unpacked site.
+The update site's repo at [https://github.com/matf/org.concordion.ide.eclipse.update-site-helios] contains development versions of the plugin. To use it, download the site as zip on github, unpack the zip and add a new local Eclipse update site pointing to the unpacked site.
