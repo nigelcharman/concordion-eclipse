@@ -15,4 +15,4 @@ The plugin code
 The plugin feature containing the plugin
   * https://github.com/matf/org.concordion.ide.eclipse.feature
 The update site containing the built plugin and feature
-  * https://github.com/matf/org.concordion.ide.eclipse.update-site
+  * https://github.com/matf/org.concordion.ide.eclipse.update-site-helios
