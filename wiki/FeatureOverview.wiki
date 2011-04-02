@@ -21,4 +21,4 @@
   # Generate fixture from HTML
   # Generate HTML from template for fixture
   # Partial document validation support
-  # Eclipse 3.7 support
+  # Eclipse 3.7 support (issues: validatoin doesn't work at all, icons can't be loaded)
