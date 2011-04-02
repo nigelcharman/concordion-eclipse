@@ -14,3 +14,9 @@
   # Syntax validations for all expressions
   # Recognize `@FullOgnl` on fixtures and change/disable expression validation accordingly
   # Code completion for partial namespace prefix should offer proposals not only for the prefix but for all available commands (e.g. `co|` -> `concordion:assertEquals`)
+
+== Future ==
+  # Partial validation support
+  # Code completion for variable names
+  # Generate fixture from HTML
+  # Generate HTML from template for fixture
