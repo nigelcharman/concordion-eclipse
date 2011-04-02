@@ -12,7 +12,6 @@
 
 == 0.2.0 ==
   # Syntax validations for all expressions
-  # Recognize `@FullOgnl` on fixtures and change/disable expression validation accordingly
   # Code completion for partial namespace prefix should offer proposals not only for the prefix but for all available commands (e.g. `co|` -> `concordion:assertEquals`)
 
 == 0.3.0 ==
@@ -25,3 +24,4 @@
   # Partial document validation support
   # Variable property name validation (check if #var.prop -> getProp() exists)
   # Eclipse 3.7 support (issues: validation doesn't work at all, icons can't be loaded)
+  # Recognize `@FullOgnl` on fixtures and change/disable expression validation accordingly
