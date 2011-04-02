@@ -11,4 +11,5 @@
 = Planned Features =
 
 == 0.2.0 ==
-  # Validations for all expressions
+  # Syntax validations for all expressions
+  # Code completion for partial namespace prefix should offer proposals not only for the prefix but for all available commands (e.g. `co|` -> `concordion:assertEquals`)
