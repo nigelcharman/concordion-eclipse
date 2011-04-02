@@ -16,7 +16,7 @@
   # Code completion for partial namespace prefix should offer proposals not only for the prefix but for all available commands (e.g. `co|` -> `concordion:assertEquals`)
   # Rename update site to reflect supported Eclipse version
 
-== Future ==
+== Ideas ==
   # Code completion for variable names
   # Generate fixture from HTML
   # Generate HTML from template for fixture
