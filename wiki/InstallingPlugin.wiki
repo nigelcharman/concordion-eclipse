@@ -4,7 +4,7 @@
 
 The Concordion Eclipse Plugin can be installed from the update site at [http://concordion-eclipse.googlecode.com/svn/trunk/org.concordion.ide.eclipse.update-site].
 
-This is the official update site and contains released versions only.
+This is the official update site and contains released versions only, currently for Eclipse 3.6 (Helios) only.
 
 = Development Versions =
 
