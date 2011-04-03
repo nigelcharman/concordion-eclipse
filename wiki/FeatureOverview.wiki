@@ -17,6 +17,7 @@
   # Validation if referenced fixture methods exist
 
 == Ideas ==
+  # Quick Fix: Wrap marked text into span with concordion command
   # Code completion for variable names
   # Generate fixture from HTML (generate referenced method)
   # Generate HTML from template for fixture
