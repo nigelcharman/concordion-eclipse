@@ -3,8 +3,8 @@
 = Features =
 
 == 0.2.0 ==
-  # Syntax validations for all expressions
-  # Code completion for partial namespace prefix should offer proposals not only for the prefix but for all available commands (e.g. `co|` -> `concordion:assertEquals`)
+  * Syntax validations for all expressions
+  * Code completion for partial namespace prefix should offer proposals not only for the prefix but for all available commands (e.g. `co|` -> `concordion:assertEquals`)
 
 == 0.1.0 ==
   * Code completion for namespace prefix, commands, Fixture methods in expressions
