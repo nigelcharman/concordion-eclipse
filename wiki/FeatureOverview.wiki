@@ -23,5 +23,5 @@
   # Generate HTML from template for fixture
   # Partial document validation support
   # Variable property name validation (check if #var.prop -> getProp() exists)
-  # Eclipse 3.7 support (issues: validation doesn't work at all, icons can't be loaded)
+  # Eclipse 3.7 support (issues: validation doesn't work at all)
   # Recognize `@FullOgnl` on fixtures and change/disable expression validation accordingly
