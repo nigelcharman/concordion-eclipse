@@ -2,15 +2,14 @@
 
 = Features =
 
-== 0.1.0 ==
-
-  * Code completion for namespace prefix, commands, Fixture methods in expressions
-  * Simple syntax validation for the `set` command
-  * Recognizes Concordion Specs loaded in the HTML editor when the root element contains a declaration of a namespace prefix for the Concordion namespace (`http://www.concordion.org/2007/concordion`)
-
 == 0.2.0 ==
   # Syntax validations for all expressions
   # Code completion for partial namespace prefix should offer proposals not only for the prefix but for all available commands (e.g. `co|` -> `concordion:assertEquals`)
+
+== 0.1.0 ==
+  * Code completion for namespace prefix, commands, Fixture methods in expressions
+  * Simple syntax validation for the `set` command
+  * Recognizes Concordion Specs loaded in the HTML editor when the root element contains a declaration of a namespace prefix for the Concordion namespace (`http://www.concordion.org/2007/concordion`)
 
 = Planned Features =
 
