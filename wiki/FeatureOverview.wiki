@@ -2,7 +2,7 @@
 
 = Introduction =
 
-The plugin is an extension to Eclipse's HTML editor. To make use of it, you need to
+The plugin is an extension to Eclipse's HTML editor. To use it, you need to
   * Make sure you edit the spec in the Eclise HTML source editor
   * Declare a namespace prefix for the Concordion namespace on the HTML root element
 
