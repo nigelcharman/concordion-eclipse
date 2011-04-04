@@ -2,6 +2,9 @@
 
 = Features =
 
+== 0.3.0 ==
+  # Validation if referenced fixture methods exist
+
 == 0.2.0 ==
   * Syntax validations for all expressions
   * Code completion for partial namespace prefix should offer proposals not only for the prefix but for all available commands (e.g. `co|` -> `concordion:assertEquals`)
@@ -13,15 +16,11 @@
 
 = Planned Features =
 
-== 0.3.0 ==
-  # Validation if referenced fixture methods exist
-
 == Ideas ==
   # Quick Fix: Wrap marked text into span with concordion command
   # Code completion for variable names
   # Generate fixture from HTML (generate referenced method)
   # Generate HTML from template for fixture
   # Partial document validation support
-  # Variable property name validation (check if #var.prop -> getProp() exists)
   # Eclipse 3.7 support (issues: validation doesn't work at all)
   # Recognize `@FullOgnl` on fixtures and change/disable expression validation accordingly
