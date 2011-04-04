@@ -3,7 +3,8 @@
 = Features =
 
 == 0.3.0 ==
-  # Validation if referenced fixture methods exist
+  * Validation if referenced fixture methods exist
+  * Fixture method parameter count validation
 
 == 0.2.0 ==
   * Syntax validations for all expressions
