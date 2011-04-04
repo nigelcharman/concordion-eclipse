@@ -1,6 +1,6 @@
 #summary Changelog
 
-= Features =
+= Versions =
 
 == 0.3.0 ==
   * Validation if referenced fixture methods exist
