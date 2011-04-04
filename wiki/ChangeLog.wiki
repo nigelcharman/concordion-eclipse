@@ -1,0 +1,27 @@
+#summary Changelog
+
+= Features =
+
+== 0.3.0 ==
+  * Validation if referenced fixture methods exist
+  * Fixture method parameter count validation
+
+== 0.2.0 ==
+  * Syntax validations for all expressions
+  * Code completion for partial namespace prefix should offer proposals not only for the prefix but for all available commands (e.g. `co|` -> `concordion:assertEquals`)
+
+== 0.1.0 ==
+  * Code completion for namespace prefix, commands, Fixture methods in expressions
+  * Simple syntax validation for the `set` command
+  * Recognizes Concordion Specs loaded in the HTML editor when the root element contains a declaration of a namespace prefix for the Concordion namespace (`http://www.concordion.org/2007/concordion`)
+
+= Planned Features =
+
+== Ideas ==
+  # Quick Fix: Wrap marked text into span with concordion command
+  # Code completion for variable names
+  # Generate fixture from HTML (generate referenced method)
+  # Generate HTML from template for fixture
+  # Partial document validation support
+  # Eclipse 3.7 support (issues: validation doesn't work at all)
+  # Recognize `@FullOgnl` on fixtures and change/disable expression validation accordingly
