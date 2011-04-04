@@ -5,7 +5,7 @@
 == Commands ==
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/commandcompletion.png
 
-== Partial Namespace Prefix -> Command ==
+== Partial Namespace Prefix ==
 
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/prefixcompeletion.png
 
