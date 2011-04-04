@@ -1,3 +1,27 @@
 #summary Feature overview
 
-== Command Completion ==
+= Code Completion =
+
+== Commands ==
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/commandcompletion.png
+
+== Partial Namespace Prefix -> Command ==
+
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/prefixcompeletion.png
+
+== Fixture Methods ==
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodcompletion.png
+
+= Validation =
+
+== Command Name ==
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/unknowncommand.png
+
+== Expression Syntax ==
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/expressionvalidation.png
+
+== Method Name ==
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodvalidation.png
+
+== Method Parameter Count ==
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/paramvalidation.png
