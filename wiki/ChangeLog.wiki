@@ -17,11 +17,11 @@
 
 = Planned Features =
 
-== Ideas ==
+Listed in the issue tracker as [http://code.google.com/p/concordion-eclipse/issues/list?can=2&q=Type%3DEnhancement+&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles Open Enhancements].
+
+== Further Ideas ==
+Ideas not yet listed in the issue tracker
   # Quick Fix: Wrap marked text into span with concordion command
-  # Code completion for variable names
-  # Generate fixture from HTML (generate referenced method)
+  # Generate fixture from HTML (generate referenced methods)
   # Generate HTML from template for fixture
-  # Partial document validation support
-  # Eclipse 3.7 support (issues: validation doesn't work at all)
-  # Recognize `@FullOgnl` on fixtures and change/disable expression validation accordingly
+  # Partial document validation support (ISourceValidator)
