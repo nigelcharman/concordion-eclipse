@@ -21,8 +21,8 @@
 Listed in the issue tracker as [http://code.google.com/p/concordion-eclipse/issues/list?can=2&q=Type%3DEnhancement+&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles Open Enhancements].
 
 == 0.4.0 ==
-  * Fix inherited fixture method completion (http://code.google.com/p/concordion-eclipse/issues/detail?id=1)
-  * Change fixture class loading from folder to project scope to find fixtures in another source folder (http://code.google.com/p/concordion-eclipse/issues/detail?id=2)
+  * Fix inherited fixture method completion [http://code.google.com/p/concordion-eclipse/issues/detail?id=1 Issue 1]
+  * Change fixture class loading from folder to project scope to find fixtures in another source folder [http://code.google.com/p/concordion-eclipse/issues/detail?id=2 Issue 2]
 
 == Further Ideas ==
 Ideas not yet listed in the issue tracker
