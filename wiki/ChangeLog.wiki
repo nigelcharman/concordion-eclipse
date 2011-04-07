@@ -2,6 +2,9 @@
 
 = Versions =
 
+== 0.5.0 ==
+  * Exclude methods from JUnit 3 test case base classes from method proposals. [ Issue 15 ]
+  * Support Groovy fixture template in New File dialog [ Issue 3 ]
 == 0.4.0 ==
   * Method proposals work for partial method names
   * Method proposals show type information and parameter names
