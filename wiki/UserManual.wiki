@@ -4,7 +4,7 @@
 
 First, install the plugin following the steps in InstallingPlugin.
 
-The plugin is an extension to Eclipse's HTML and Web Page editors. To use it, you need to
+The plugin supports writing [http://www.concordion.org/Tutorial.html Concordion Specifications], and is an extension to Eclipse's HTML and Web Page editors. To use it, you need to
   * Make sure you edit the Specification in the Eclise HTML source editor, or the source tab in the Web Page Editor. This is usually the case when you just doubleclick on a HTML file in an Eclipse installation with default configuration.
   * Declare a namespace prefix for the Concordion namespace on the HTML root element
 
