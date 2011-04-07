@@ -14,6 +14,16 @@ The plugin supports writing [http://www.concordion.org/Tutorial.html Concordion 
   </html>
 }}}
 
+= New File Wizard =
+
+Select the package where you'd like to have the Specification created in. Go to `File > New > Other...` to open the New File dialog. In the dialog, select `Concordion Specification File`:
+
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/newfile.png
+
+A wizard page will appear. Change or set the location if desired, enter a name for the Specification (e.g. `CanOrderIceCream.html`) and select wether you'd like to generate a Java or a Groovy fixture to go with it.
+
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/newfilewizard.png
+
 = Code Completion =
 
 To use code completion, hit Ctrl+Space (or whatever your code completion hotkey is) in any of the following places while writing the Specification:
