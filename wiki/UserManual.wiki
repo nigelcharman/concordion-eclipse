@@ -8,6 +8,8 @@ The plugin is an extension to Eclipse's HTML and Web Page editors. To use it, yo
 
 = Code Completion =
 
+To use code completion, hit Ctrl+Space in any of the following places:
+
 == Commands ==
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/commandcompletion.png
 
@@ -21,6 +23,8 @@ http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodcompletion.png
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodcompletionprefix.png
 
 = Validation =
+
+Vslidation is done automatically when you open a Concordion Specification in the editor, and as you type. Errors are marked with a red underlining, details are shown if you hover the mouse over the error.
 
 == Command Name ==
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/unknowncommand.png
