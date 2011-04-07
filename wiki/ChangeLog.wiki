@@ -5,9 +5,10 @@
 == 0.4.0 ==
   * Method proposals work for partial method names
   * Method proposals show type information and parameter names
-  * Fix inherited fixture method completion and validation [http://code.google.com/p/concordion-eclipse/issues/detail?id=1 Issue 1]
-  * Change fixture class loading from folder to project scope to find fixtures in another source folder [http://code.google.com/p/concordion-eclipse/issues/detail?id=2 Issue 2]
-  * Check method exists for methods with parameters [http://code.google.com/p/concordion-eclipse/issues/detail?id=13 Issue 13]
+  * Fix inherited fixture method completion and validation [ Issue 1 ]
+  * Change fixture class loading from folder to project scope to find fixtures in another source folder [ Issue 2 ]
+  * Check method exists for methods with parameters [ Issue 13 ]
+  * New File dialog creating a Specification and a Java Fixture
 == 0.3.0 ==
   * Validation if referenced fixture methods exist
   * Fixture method parameter count validation
