@@ -3,8 +3,14 @@
 = Introduction =
 
 The plugin is an extension to Eclipse's HTML and Web Page editors. To use it, you need to
-  * Make sure you edit the Specification in the Eclise HTML source editor, or the source tab in the Web Page Editor.
+  * Make sure you edit the Specification in the Eclise HTML source editor, or the source tab in the Web Page Editor. This is usually the case in an Eclipse installation with default configuration.
   * Declare a namespace prefix for the Concordion namespace on the HTML root element
+
+{{{
+  <html xmlns:concordion="http://www.concordion.org/2007/concordion">
+    Test some <span concordion:assertEuals="getResult()">value</span>
+  </html>
+}}}
 
 = Code Completion =
 
