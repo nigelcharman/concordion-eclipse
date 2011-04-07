@@ -18,6 +18,8 @@ http://concordion-eclipse.googlecode.com/svn/trunk/doc/prefixcompeletion.png
 == Fixture Methods ==
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodcompletion.png
 
+http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodcompletionprefix.png
+
 = Validation =
 
 == Command Name ==
