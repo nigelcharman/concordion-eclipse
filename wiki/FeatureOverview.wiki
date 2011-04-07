@@ -16,6 +16,7 @@ http://concordion-eclipse.googlecode.com/svn/trunk/doc/commandcompletion.png
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/prefixcompeletion.png
 
 == Fixture Methods ==
+Works with partial method names as well
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodcompletion.png
 
 = Validation =
