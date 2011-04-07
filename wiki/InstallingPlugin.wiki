@@ -10,13 +10,13 @@ This is the official update site and contains released versions only. Releases a
 
 == 1.) Install New Software ==
 
-Go to 'Help > Install New Software...'
+Go to `Help > Install New Software...`
 
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/helpmenu.png
 
 == 2.) Add Update Site ==
 
-Click on 'Add...', add the following Update Site URL:
+Click on `Add...`, add the following Update Site URL:
 
 http://concordion-eclipse.googlecode.com/svn/trunk/org.concordion.ide.eclipse.update-site-helios
 
@@ -24,6 +24,6 @@ http://concordion-eclipse.googlecode.com/svn/trunk/doc/addsite.png
 
 == 3.) Select Feature ==
 
-The Update Manager will contact the update site and provide you with a selectiong of available plugins. Click the checkbox next to Concordion Plugin, and use 'Next...' to start the installation.
+The Update Manager will contact the update site and provide you with a selection of available plugins. Click the checkbox next to Concordion Plugin, and use `Next...` to start the installation.
 
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/installfeature.png
