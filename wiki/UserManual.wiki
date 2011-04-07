@@ -16,7 +16,7 @@ The plugin supports writing [http://www.concordion.org/Tutorial.html Concordion 
 
 = Code Completion =
 
-To use code completion, hit Ctrl+Space (or whatever your code completion hotkey is) in any of the following places:
+To use code completion, hit Ctrl+Space (or whatever your code completion hotkey is) in any of the following places while writing the Specification:
 
 == Commands ==
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/commandcompletion.png
