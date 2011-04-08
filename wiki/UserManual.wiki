@@ -40,6 +40,11 @@ http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodcompletion.png
 
 http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodcompletionprefix.png
 
+The list of methods will exclude:
+  * Methods annotated with `@Before`, `@After`, `@BeforeClass`, `@AfterClass`
+  * Methods from `Object`, `TestCase`, `ConcordionTestCase`
+  * Any methods not accessible from the fixture class 
+
 = Validation =
 
 Vslidation is done automatically when you open a Concordion Specification in the editor, and as you type. Errors are marked with a red underlining, details are shown if you hover the mouse over the error.
