@@ -43,6 +43,7 @@ http://concordion-eclipse.googlecode.com/svn/trunk/doc/methodcompletionprefix.pn
 The list of methods will exclude:
   * Methods annotated with `@Before`, `@After`, `@BeforeClass`, `@AfterClass`
   * Methods from `Object`, `TestCase`, `ConcordionTestCase`
+  * For JUnit3 fixtures, `setUp()`, `tearDown()`
   * Any methods not accessible from the fixture class 
 
 = Validation =
