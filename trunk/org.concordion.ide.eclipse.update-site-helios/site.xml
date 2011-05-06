@@ -9,6 +9,9 @@
    <feature url="features/org.concordion.ide.eclipse.feature_0.5.0.jar" id="org.concordion.ide.eclipse.feature" version="0.5.0">
       <category name="org.concordion.ide.eclipse"/>
    </feature>
+   <feature url="features/org.concordion.ide.eclipse.feature_0.6.0.jar" id="org.concordion.ide.eclipse.feature" version="0.6.0">
+      <category name="org.concordion.ide.eclipse"/>
+   </feature>
    <category-def name="org.concordion.ide.eclipse" label="Concordion Eclipse Plugin">
       <description>
          Concordion Eclipse Plugin
