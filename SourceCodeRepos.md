@@ -1,0 +1,16 @@
+# Introduction #
+
+  * Plugin code, feature and update site are developed on Github
+  * Plugin releases are mirrored to the official update site on Google Code. See InstallingPlugin for instructions on how to install the plugin.
+
+# Details #
+
+There are currently three repos on Github:
+
+
+The plugin code
+  * https://github.com/matf/org.concordion.ide.eclipse
+The plugin feature containing the plugin
+  * https://github.com/matf/org.concordion.ide.eclipse.feature
+The update site containing the built plugin and feature
+  * https://github.com/matf/org.concordion.ide.eclipse.update-site-helios

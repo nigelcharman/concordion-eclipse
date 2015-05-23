@@ -1,0 +1,31 @@
+# Installing #
+
+The Concordion Eclipse Plugin can be installed from the update site at
+
+http://concordion-eclipse.googlecode.com/svn/trunk/org.concordion.ide.eclipse.update-site-helios
+
+This is the official update site and contains released versions only. Releases are tested with Eclipse 3.6 (Helios).
+
+## 1. Install New Software ##
+
+Go to `Help > Install New Software...`
+
+![http://concordion-eclipse.googlecode.com/svn/trunk/doc/helpmenu.png](http://concordion-eclipse.googlecode.com/svn/trunk/doc/helpmenu.png)
+
+## 2. Add Update Site ##
+
+Click on `Add...`, add the following Update Site URL:
+
+http://concordion-eclipse.googlecode.com/svn/trunk/org.concordion.ide.eclipse.update-site-helios
+
+![http://concordion-eclipse.googlecode.com/svn/trunk/doc/addsite.png](http://concordion-eclipse.googlecode.com/svn/trunk/doc/addsite.png)
+
+## 3. Select Feature ##
+
+The Update Manager will contact the update site and provide you with a selection of available plugins. Click the checkbox next to Concordion Plugin, and use `Next...` to start the installation.
+
+![http://concordion-eclipse.googlecode.com/svn/trunk/doc/installfeature.png](http://concordion-eclipse.googlecode.com/svn/trunk/doc/installfeature.png)
+
+## 4. Done ##
+
+After restarting Eclipse, the plugin will be available. Open a Concordion Specification HTML file to edit it, or create a new one. The UserManual has some further instructions on how to use the plugin.
